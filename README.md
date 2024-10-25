@@ -53,21 +53,21 @@ R2 Score: Measured the goodness of fit, providing an indication of how well the 
 5.	Average Portable Battery Temperature: Provides insights into the temperature variations of portable batteries during operations.
 6.	Average Fixed Battery Temperature: Indicates temperature consistency within fixed batteries.
 
-7.	Results
+6.	Results
 
-7.1.	Model Performance
+6.1.	Model Performance
 
 MSE: Calculated MSE as a measure of prediction accuracy for SOC.
 
 R2 Score: Provides a summary of model effectiveness.
 
-7.2.	KPI Insights
+6.2.	KPI Insights
 
 Battery Efficiency: Average efficiency was observed at approximately X%, indicating reliable energy conversion.
 
 Temperature Monitoring: Noted that temperature levels for both fixed and portable batteries are within optimal operational ranges.
 
-8.	Conclusion
+7.	Conclusion
 
 This project successfully developed a machine learning model for predicting Effective SOC and generated KPIs to assess battery performance. The model demonstrates good prediction accuracy and provides actionable insights into battery efficiency, range, and operational health. These KPIs can guide improvements in battery management and inform future optimizations.
 
